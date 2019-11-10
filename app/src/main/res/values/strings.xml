@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Job Test</string>
+    <string name="human_image">Human image</string>
+    <string name="show_detail_button">Show detail button</string>
+    <string name="com_vk_sdk_AppId">7202445</string>
+    <string name="token">VK_ACCESS_TOKEN</string>
+    <string name="gender_man">Мужик</string>
+    <string name="gender_woman">Баба</string>
+    <string name="gender_it">ХЗ</string>
+    <string name="cancel">Cancel</string>
+    <string name="back_button">Back button</string>
+    <string name="back">Back</string>
+    <string name="name">Имя</string>
+    <string name="second_name">Фамилия</string>
+    <string name="screen_name">ScreenName</string>
+    <string name="sex">Пол</string>
+</resources>
